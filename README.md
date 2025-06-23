@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Younes Ouzzat
+<h1 align="center">Greetings👋, I'm Younes Ouzzat</h1>
 
 
 [![Laravel](https://img.shields.io/badge/Backend-Laravel-red)](https://laravel.com/)
@@ -31,8 +31,8 @@ With a keen eye for clean architecture and a focus on delivering excellent user 
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ouzzat/)
-- 💻 [Portfolio](https://www.ouzzatdev.it.com/)
+- 💼 [LinkedIn](https://linkedin.com/in/ouzzat/)
+- 💻 [Portfolio](https://ouzzatdev.it.com/)
 - 📧 ouzzatdev@gmail.com
 
 ---

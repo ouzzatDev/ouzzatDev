@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Younes Ouzzat
 
+
+[![Laravel](https://img.shields.io/badge/Backend-Laravel-red)](https://laravel.com/)
+[![Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/Frontend-React-blue)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Frontend-Next.js-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/Frontend-Vue.js-42b883)](https://vuejs.org/)
+
 ## 🚀 Full Stack Developer | Laravel | Node.js (Express.js, Nest.js) | React.js | TypeScript | Next.js | Vue.js
 
 I'm a passionate and results-driven Full Stack Developer with a strong background in both frontend and backend technologies. I specialize in crafting scalable, high-performance web applications using:
